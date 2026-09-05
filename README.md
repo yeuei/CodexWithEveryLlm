@@ -22,7 +22,7 @@
 ### 三条真实入口
 
 - 总仓库（当前页面）：用户入口、架构、文档和组合版本。
-- [Local Agent skill 调度说明](docs/开发者指南.md#dashboard-调度)：从 [yeuei/agent-github-project-executor-skills](https://github.com/yeuei/agent-github-project-executor-skills) 安装；该仓库承载 Local Agent skill 与 Dashboard 部署子能力。
+- [Local Agent skill 调度说明](docs/开发者指南.md#dashboard-调度)：从 [yeuei/agent-github-project-executor-skills 的 main](https://github.com/yeuei/agent-github-project-executor-skills/tree/main) 安装；其中的 [`references/dashboard-runtime.md`](https://github.com/yeuei/agent-github-project-executor-skills/blob/main/local-agent-github-project-executor-v2/references/dashboard-runtime.md) 承载 Dashboard 部署子能力。
 - [真实交接项目](https://github.com/yeuei/gpt---github---codex) 与 [协议模板](https://github.com/yeuei/template_chatgpt_github_codex)：分别保存运行事实和通用协议。
 
 ## 组件关系
