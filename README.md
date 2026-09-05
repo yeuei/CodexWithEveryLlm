@@ -22,7 +22,7 @@
 ### 三条真实入口
 
 - 总仓库（当前页面）：用户入口、架构、文档和组合版本。
-- [Local Agent skill 调度说明](docs/开发者指南.md#dashboard-调度)：本机安装路径为 `/Users/fy/.codex/skills/local-agent-github-project-executor-v2`；该 skill 当前没有可确认的独立 GitHub 远端，正式远端标记为“待发布”，不在此臆造 URL。
+- [Local Agent skill 调度说明](docs/开发者指南.md#dashboard-调度)：从 [yeuei/agent-github-project-executor-skills](https://github.com/yeuei/agent-github-project-executor-skills) 安装；该仓库承载 Local Agent skill 与 Dashboard 部署子能力。
 - [真实交接项目](https://github.com/yeuei/gpt---github---codex) 与 [协议模板](https://github.com/yeuei/template_chatgpt_github_codex)：分别保存运行事实和通用协议。
 
 ## 组件关系
