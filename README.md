@@ -19,6 +19,12 @@
 
 组件职责、协议、路由绑定和发布方式见 [组件与版本](docs/组件与版本.md) 和 [开发者指南](docs/开发者指南.md)。
 
+### 三条真实入口
+
+- 总仓库（当前页面）：用户入口、架构、文档和组合版本。
+- [Local Agent skill 调度说明](docs/开发者指南.md#dashboard-调度)：本机安装路径为 `/Users/fy/.codex/skills/local-agent-github-project-executor-v2`；该 skill 当前没有可确认的独立 GitHub 远端，正式远端标记为“待发布”，不在此臆造 URL。
+- [真实交接项目](https://github.com/yeuei/gpt---github---codex) 与 [协议模板](https://github.com/yeuei/template_chatgpt_github_codex)：分别保存运行事实和通用协议。
+
 ## 组件关系
 
 | 组件 | 职责 | 维护方式 |
